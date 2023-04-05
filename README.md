@@ -27,4 +27,4 @@
 <img width="400" alt="image" src="pics/chromhmm_5.png">
 
 ### UCSC Genome Browser
-<img width="800" alt="image" src="pics/uscs_1.png">
+<img width="800" alt="image" src="pics/ucsc_1.png">
