@@ -19,12 +19,9 @@
 
 ### ChromHMM Report
 
-<img width="250" alt="image" src="pics/chromhmm_1.png"> 
-<img width="250" alt="image" src="pics/chromhmm_2.png"> 
-<img width="250" alt="image" src="pics/chromhmm_3.png">
+<img width="250" alt="image" src="pics/chromhmm_1.png"> <img width="250" alt="image" src="pics/chromhmm_2.png"> <img width="250" alt="image" src="pics/chromhmm_3.png">
 
-<img width="400" alt="image" src="pics/chromhmm_4.png"> 
-<img width="400" alt="image" src="pics/chromhmm_5.png">
+<img width="400" alt="image" src="pics/chromhmm_4.png"> <img width="400" alt="image" src="pics/chromhmm_5.png">
 
 ### UCSC Genome Browser
 <img width="800" alt="image" src="pics/ucsc_1.png">
