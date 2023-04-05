@@ -27,8 +27,8 @@
 <img width="800" alt="image" src="pics/ucsc_1.png">
 <img width="800" alt="image" src="pics/ucsc_2.png">
 
-| Состояние | Метки |
-|:---------:|:------:|
+| Состояние | Метки | Названия |
+|:---------:|:------:|:-------:|
 |1          |H3K27me3| 
 |2          |-       |
 |3          |-       |
@@ -38,8 +38,8 @@
 |7          |H3K79me2|
 |8          |H3K79me2|
 |9          |H3K4me1 H3K27ac|
-|10         |H2AFZ H3K27ac H3K4me2 H3K4me3 H3K79me2 H3K9ac|
+|10         |H2AFZ H3K27ac H3K4me2 H3K4me3 H3K79me2 H3K9ac| Promoter |
 
-CpG islands попадают на 10й стейт.
+CpG islands попадают на 10-й стейт. 10-й и 5-й находятся на экзонах.
 
 
