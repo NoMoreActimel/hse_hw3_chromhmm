@@ -25,3 +25,32 @@
 
 ### UCSC Genome Browser
 <img width="800" alt="image" src="pics/ucsc_1.png">
+<img width="800" alt="image" src="pics/ucsc_2.png">
+
+| Состояние | Метки | 
+|:---------:|:------:|
+|1          |H3K27me3| 
+|2          |-       |
+|3          |-       |
+|4          |        |
+|5          |        |
+|6          |        |
+|7          |        |
+|8          |        |
+|9          |H3K4me1 H3K27ac|
+|10         |H2AFZ H3K27ac H3K4me2 H3K4me3 H3K79me2 H3K9ac|
+H2AFZ   |H2azAlnRep1.bam    |
+|H3K27ac |H3k27acAlnRep1.bam |
+|H3K27me3|H3k27me3AlnRep1.bam|
+|H3K36me3|H3k36me3AlnRep1.bam|
+|H3K4me1 |H3k04me1AlnRep1.bam|
+|H3K4me2 |H3k04me2AlnRep1.bam|
+|H3k4me3 |H3k04me3AlnRep1.bam|
+|H3K79me2|H3k79me2AlnRep1.bam|
+|H3K9ac  |H3k09acAlnRep1.bam |
+|H3K9me3 |H3k09me3AlnRep1.bam|
+
+
+
+
+|H3K9me3 |H3k09me3AlnRep1.bam|
